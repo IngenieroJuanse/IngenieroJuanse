@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Welcome to a tecnologic world </a> 👽 </h1>
 </div>
-<img src="https://i.postimg.cc/PJns73f5/foto-de-gears.jpg">
+<img src="https://i.postimg.cc/1X1XKrLp/gears-horizontal-2.jpg">
 
 ## About me
 - 📚 I’m currently studying at the Pontifical Javeriana University
