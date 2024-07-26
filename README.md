@@ -1,16 +1,12 @@
-## Hi there 👋
+<div align="center">
+<h1 align="center">Welcome to a tecnologic world </a> 👽 </h1>
+</div>
+<img src="https://i.postimg.cc/PJns73f5/foto-de-gears.jpg">
 
-<!--
-**IngenieroJuanse/IngenieroJuanse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+- 📚 I’m currently studying at the Pontifical Javeriana University
+- 🤖 I’m currently learning to program
+- ⚽ I´m currently playing soccer in the Pontifical Javeriana University
+- 👯 I’m looking to collaborate on projects and jobs
+- 📫 How to reach me: [juans_rodriguezp@javeriana.edu.co](mailto:juans_rodriguezp@javeriana.edu.co)
+- 😄 Pronouns: Juanse or Sebas
