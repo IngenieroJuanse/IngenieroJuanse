@@ -1,5 +1,10 @@
-//Hola proffeeeeee
-//Profee aca esta el RETO 01, Espero haya quedado bien 
+//Pontifica Universidad Javeriana
+//Programacion Orientada a Objetos
+//Profesor: Jhon Corredor
+//Estudiante: Juan Sebastian Rodriguez Pabon
+//Fecha:  29/07/2024
+//Proyecto: CAFETERA TAD
+
 #include <iostream>
 #include <memory>  // Biblioteca que se usa para unique_ptr y make_unique
 #include <string>
@@ -90,3 +95,4 @@ int main() {
     cafetera->preparar(opcion);
     return 0;
 }
+
